@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
