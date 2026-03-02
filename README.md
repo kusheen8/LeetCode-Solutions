@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
