@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0274-h-index) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
 | ------- |
