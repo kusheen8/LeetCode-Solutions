@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kusheen8/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
