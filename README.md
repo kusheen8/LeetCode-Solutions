@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0289-game-of-life) |
 ## Linked List
 |  |
@@ -369,10 +372,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0139-word-break) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
