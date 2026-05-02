@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
 |  |
