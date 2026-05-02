@@ -52,7 +52,7 @@ class LRUCache {
     private void insertAtFront(Node node) {
         node.next = head.next;
         node.prev = head;
-        head.next .prev = node;
+        head.next.prev = node;
         head.next = node;
     }
 }
