@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0994-rotting-oranges](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
