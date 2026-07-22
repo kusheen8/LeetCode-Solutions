@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0396-rotate-function) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Queue
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Combinatorics
