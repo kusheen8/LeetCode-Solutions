@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Trie
