@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0274-h-index) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
 | ------- |
