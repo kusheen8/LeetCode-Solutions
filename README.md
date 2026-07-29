@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
 | ------- |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Database
 |  |
 | ------- |
