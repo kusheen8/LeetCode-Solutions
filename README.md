@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
