@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
@@ -494,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
