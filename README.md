@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1406-stone-game-iii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -506,4 +509,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
