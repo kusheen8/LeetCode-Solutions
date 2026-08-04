@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1861-rotating-the-box](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3731-find-missing-elements](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kusheen8/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
