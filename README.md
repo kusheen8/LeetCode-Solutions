@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [3310-remove-methods-from-project](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kusheen8/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/kusheen8/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Game Theory
 |  |
 | ------- |
