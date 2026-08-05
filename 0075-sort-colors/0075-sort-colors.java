@@ -1,23 +1,22 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int cnt0=0,cnt1=0,cnt2=0;
-
-        for(int num:nums){
-            if(num == 0){
-                cnt0++;
-            }else if(num == 1){
-                cnt1++;
-            }else cnt2++;
-        }
-        int index =0;
-        while(cnt0-- > 0){
-            nums[index++]=0;
-        }
-        while(cnt1-- >0){
-            nums[index++]=1;
-        }
-        while(cnt2-- >0){
-            nums[index++]=2;
+        int n = nums.length;
+        int low =0,mid=0,high=n-1;
+        while(mid<=high){
+            if(nums[mid]==0){
+                int temp = nums[low];
+                nums[low] = nums[mid];
+                nums[mid] = temp;
+                low++;
+                mid++;
+            }else if(nums[mid] == 1){
+                mid++;
+            }else{
+                int temp = nums[mid];
+                nums[mid] = nums[high];
+                nums[high] = temp;
+                high--;
+            }
         }
     }
 }
